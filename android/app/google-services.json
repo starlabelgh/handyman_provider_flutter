@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "438524885554",
+    "project_id": "bookingsystem-3be5c",
+    "storage_bucket": "bookingsystem-3be5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438524885554:android:b883d96d9505a2b44f9a2b",
+        "android_client_info": {
+          "package_name": "com.iqonic.handymanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438524885554-kqu3od70tam204hviq20ir3gk180ujev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.handymanapp",
+            "certificate_hash": "8df53010421a494a8bd2a524e56ff9d7f0ef58c3"
+          }
+        },
+        {
+          "client_id": "438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdD0fJnvDQjp02Ong4C2LxFlZV8mrCU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438524885554-3ptqee1uhr0f8mn1j0ll7j1qn4c0da2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.servicebooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438524885554:android:4fcb3890f4ff19244f9a2b",
+        "android_client_info": {
+          "package_name": "com.iqonic.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdD0fJnvDQjp02Ong4C2LxFlZV8mrCU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438524885554-3ptqee1uhr0f8mn1j0ll7j1qn4c0da2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.servicebooking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438524885554:android:cbe7bb2ff30e7d7b4f9a2b",
+        "android_client_info": {
+          "package_name": "com.iqonic.servicebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438524885554-22gjfq85gqjkglb9odqp1c4ul4ndpf8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.servicebooking",
+            "certificate_hash": "5948b057fd9be9e89d69488cacc38be128cc019f"
+          }
+        },
+        {
+          "client_id": "438524885554-28urchl63tdlapp2vqe5rbmg8bq5n2j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.servicebooking",
+            "certificate_hash": "5821b62137a683e4a1d6aa137823687f701225a6"
+          }
+        },
+        {
+          "client_id": "438524885554-tp8icvd0ounctp35o2b2am0g59er8eb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.servicebooking",
+            "certificate_hash": "8df53010421a494a8bd2a524e56ff9d7f0ef58c3"
+          }
+        },
+        {
+          "client_id": "438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdD0fJnvDQjp02Ong4C2LxFlZV8mrCU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438524885554-57q5kelj6uhtjnbebkb8o82mbb3262gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438524885554-3ptqee1uhr0f8mn1j0ll7j1qn4c0da2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.servicebooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
